@@ -1,0 +1,6 @@
+[submodule "slides-parallax"]
+	path = slides-parallax
+	url = https://github.com/planetoftheweb/slides-parallax.git
+[submodule "slides_bootstrap5"]
+	path = slides_bootstrap5
+	url = https://github.com/planetoftheweb/slides_bootstrap5.git
